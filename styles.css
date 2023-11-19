@@ -6,12 +6,17 @@ body {
 #votingApp {
     max-width: 400px;
     margin: 0 auto;
+    border: 2px solid #333;
+    padding: 10px;
+    border-radius: 30px;
+    background: linear-gradient(120deg, #f3f393, #b8c0e6);
 }
 
 button {
     padding: 10px;
     margin: 5px;
     cursor: pointer;
+    background: linear-gradient(120deg, #46b470, #46b470);
 }
 
 button:hover {
